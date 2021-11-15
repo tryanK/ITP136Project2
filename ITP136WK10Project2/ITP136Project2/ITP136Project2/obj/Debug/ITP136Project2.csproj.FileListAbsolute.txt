@@ -1,0 +1,7 @@
+C:\Users\Tyler\Desktop\School\Fall2021\ITP136\ITP136WK10Project2\ITP136Project2\ITP136Project2\bin\Debug\ITP136Project2.exe.config
+C:\Users\Tyler\Desktop\School\Fall2021\ITP136\ITP136WK10Project2\ITP136Project2\ITP136Project2\bin\Debug\ITP136Project2.exe
+C:\Users\Tyler\Desktop\School\Fall2021\ITP136\ITP136WK10Project2\ITP136Project2\ITP136Project2\bin\Debug\ITP136Project2.pdb
+C:\Users\Tyler\Desktop\School\Fall2021\ITP136\ITP136WK10Project2\ITP136Project2\ITP136Project2\obj\Debug\ITP136Project2.csproj.AssemblyReference.cache
+C:\Users\Tyler\Desktop\School\Fall2021\ITP136\ITP136WK10Project2\ITP136Project2\ITP136Project2\obj\Debug\ITP136Project2.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Desktop\School\Fall2021\ITP136\ITP136WK10Project2\ITP136Project2\ITP136Project2\obj\Debug\ITP136Project2.exe
+C:\Users\Tyler\Desktop\School\Fall2021\ITP136\ITP136WK10Project2\ITP136Project2\ITP136Project2\obj\Debug\ITP136Project2.pdb
